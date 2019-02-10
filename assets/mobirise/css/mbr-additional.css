@@ -2831,3 +2831,17 @@ body {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
+.cid-rhGPETOrJb {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #232323, #333333);
+}
+.cid-rhGPETOrJb .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-rhGPETOrJb H3 {
+  text-align: center;
+}
+.cid-rhGPETOrJb H2 {
+  text-align: center;
+}
